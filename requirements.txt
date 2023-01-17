@@ -1,2 +1,0 @@
-pip install  --no-cache-dir tensorflow-gpu
-numpy>=1.14.5
